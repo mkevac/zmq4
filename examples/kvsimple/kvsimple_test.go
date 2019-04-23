@@ -1,7 +1,7 @@
 package kvsimple
 
 import (
-	zmq "github.com/pebbe/zmq4"
+	zmq "github.com/mkevac/zmq4"
 
 	"os"
 	"testing"

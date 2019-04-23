@@ -1,7 +1,7 @@
 A Go interface to [ZeroMQ](http://www.zeromq.org/) version 4.
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/pebbe/zmq4)](https://goreportcard.com/report/github.com/pebbe/zmq4)
-[![GoDoc](https://godoc.org/github.com/pebbe/zmq4?status.svg)](https://godoc.org/github.com/pebbe/zmq4)
+[![Go Report Card](https://goreportcard.com/badge/github.com/mkevac/zmq4)](https://goreportcard.com/report/github.com/mkevac/zmq4)
+[![GoDoc](https://godoc.org/github.com/mkevac/zmq4?status.svg)](https://godoc.org/github.com/mkevac/zmq4)
 
 This requires ZeroMQ version 4.0.1 or above. To use CURVE security in
 versions prior to 4.2, ZeroMQ must be installed with
@@ -12,7 +12,7 @@ version of zmq4 `draft`. The API pertaining to this is subject to
 change. To use this:
 
     import (
-        zmq "github.com/pebbe/zmq4/draft"
+        zmq "github.com/mkevac/zmq4/draft"
     )
 
 For ZeroMQ version 3, see: http://github.com/pebbe/zmq3
@@ -31,12 +31,12 @@ Keywords: zmq, zeromq, 0mq, networks, distributed computing, message passing, fa
 
 ## Install
 
-    go get github.com/pebbe/zmq4
+    go get github.com/mkevac/zmq4
 
 ## Docs
 
- * [package help](http://godoc.org/github.com/pebbe/zmq4)
- * [wiki](https://github.com/pebbe/zmq4/wiki)
+ * [package help](http://godoc.org/github.com/mkevac/zmq4)
+ * [wiki](https://github.com/mkevac/zmq4/wiki)
 
 ## API change
 

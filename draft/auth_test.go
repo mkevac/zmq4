@@ -1,7 +1,7 @@
 package zmq4_test
 
 import (
-	zmq "github.com/pebbe/zmq4/draft"
+	zmq "github.com/mkevac/zmq4/draft"
 
 	"testing"
 )

@@ -6,7 +6,7 @@
 package main
 
 import (
-	"github.com/pebbe/zmq4/examples/intface"
+	"github.com/mkevac/zmq4/examples/intface"
 
 	"fmt"
 	"log"

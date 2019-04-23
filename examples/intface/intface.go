@@ -3,7 +3,7 @@
 package intface
 
 import (
-	zmq "github.com/pebbe/zmq4"
+	zmq "github.com/mkevac/zmq4"
 
 	"github.com/pborman/uuid"
 

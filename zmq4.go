@@ -1,7 +1,6 @@
 package zmq4
 
 /*
-#cgo !windows pkg-config: libzmq
 #cgo windows CFLAGS: -I/usr/local/include
 #cgo windows LDFLAGS: -L/usr/local/lib -lzmq
 #include <zmq.h>
@@ -1018,7 +1017,7 @@ Example:
     package main
 
     import (
-        zmq "github.com/pebbe/zmq4"
+        zmq "github.com/mkevac/zmq4"
         "log"
         "time"
     )

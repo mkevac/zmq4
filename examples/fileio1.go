@@ -6,7 +6,7 @@
 package main
 
 import (
-	zmq "github.com/pebbe/zmq4"
+	zmq "github.com/mkevac/zmq4"
 
 	"fmt"
 	"io"

@@ -15,7 +15,7 @@ and checks the event state of the socket in a specific index in the list.
 package main
 
 import (
-	zmq "github.com/pebbe/zmq4"
+	zmq "github.com/mkevac/zmq4"
 
 	"fmt"
 	"math/rand"
